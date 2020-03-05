@@ -182,7 +182,7 @@ $listaUsuarios = ControladorUsuarios::ctrMostrarUsuarios(null,null);
 
 
                 <li>
-                  <span class="mailbox-attachment-icon has-img"><img src="http://academyoflife.com/backoffice/vistas/img/tickets/JPG.jpg" alt="Attachment"></span><br>
+                  <span class="mailbox-attachment-icon has-img"><img src="https://mringsanjuan.now.sh/backoffice/vistas/img/tickets/JPG.jpg" alt="Attachment"></span><br>
 
                   <div class="mailbox-attachment-info">
                     <a href="#" class="mailbox-attachment-name"><i class="fas fa-camera"></i> JPG.jpg</a>
@@ -194,7 +194,7 @@ $listaUsuarios = ControladorUsuarios::ctrMostrarUsuarios(null,null);
                 </li>
 
                 <li>
-                  <span class="mailbox-attachment-icon has-img"><img src="http://academyoflife.com/backoffice/vistas/img/tickets/PNG.png" alt="Attachment"></span><br>
+                  <span class="mailbox-attachment-icon has-img"><img src="https://mringsanjuan.now.sh/backoffice/vistas/img/tickets/PNG.png" alt="Attachment"></span><br>
 
                   <div class="mailbox-attachment-info">
                     <a href="#" class="mailbox-attachment-name"><i class="fas fa-camera"></i> PNG.png</a>
